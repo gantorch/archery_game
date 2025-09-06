@@ -1,8 +1,7 @@
-# archery_game
+# Aim.exe
 single player archery game for Caltech CS 3
 
 ## Section 0: Summary
-- Title: Aim.exe
 - Concept statement: A 2D physics-based competitive shooting game where players take turns launching projectiles at opponents
 
 ## Section 1: Gameplay
